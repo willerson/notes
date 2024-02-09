@@ -27,4 +27,6 @@ After that it will serve on a host port
 
 ### Certificate
 
+![certificate-willerson-reactjs](https://github.com/willerson/notes/assets/22488088/0d895279-2e69-4e97-aabc-bea15462ae44)
+
 [certificate-willerson-reactjs.pdf](https://github.com/willerson/notes/files/14222247/certificate-willerson-reactjs.pdf)
